@@ -1,0 +1,4 @@
+C:\Users\Jakub Jukl\source\repos\Engine\bin\Release\Engine.dll
+C:\Users\Jakub Jukl\source\repos\Engine\bin\Release\Engine.pdb
+C:\Users\Jakub Jukl\source\repos\Engine\obj\Release\Engine.dll
+C:\Users\Jakub Jukl\source\repos\Engine\obj\Release\Engine.pdb

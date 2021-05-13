@@ -1,0 +1,12 @@
+C:\Users\Jakub Jukl\source\repos\Engine\bin\Debug\Engine.dll
+C:\Users\Jakub Jukl\source\repos\Engine\bin\Debug\Engine.pdb
+C:\Users\Jakub Jukl\source\repos\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\Jakub Jukl\source\repos\Engine\obj\Debug\Engine.dll
+C:\Users\Jakub Jukl\source\repos\Engine\obj\Debug\Engine.pdb
+C:\Users\Jakub Jukl\source\repos\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\kubaj\source\repos\Engine\bin\Debug\Engine.dll
+C:\Users\kubaj\source\repos\Engine\bin\Debug\Engine.pdb
+C:\Users\kubaj\source\repos\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\kubaj\source\repos\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\kubaj\source\repos\Engine\obj\Debug\Engine.dll
+C:\Users\kubaj\source\repos\Engine\obj\Debug\Engine.pdb
